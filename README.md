@@ -1,3 +1,3 @@
 # taskmaster-pro
 
-Showcase of jquery, bootstrap, js, html, and css in this mockup application. 
+Showcase of jquery, bootstrap, js, html, and custom css in this mockup application. 
